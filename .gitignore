@@ -1,7 +1,8 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
-*$py.class
+*的.py [化学需氧量]
+.idea
+* $ py.clas
 
 # C extensions
 *.so
